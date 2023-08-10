@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kwonyeonho&show_icons=true" alt="Anurag's GitHub stats" width="415" height="200">
 </a>
 <a href="https://github.com/Kwonyeonho/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeonho&layout=compact" alt="Top Langs" width="415" height="215">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeonho&layout=compact" alt="Top Langs" width="415" height="225">
 </a>
 
 ### BOJ👨‍💻
