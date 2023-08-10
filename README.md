@@ -14,7 +14,7 @@
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gyh040409" alt="Solved.ac Profile">
 </a>
    
-### _____________________________________________________________________________________________________________________
+### ____________________________________________________________________________________________________________________
 # 💪Skills
 ### 🗨️languages💬
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
