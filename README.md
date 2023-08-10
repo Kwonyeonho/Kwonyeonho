@@ -3,15 +3,8 @@
 <a href="https://github.com/Kwonyeonho/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Kwonyeonho&show_icons=true" alt="Anurag's GitHub stats" width="415" height="200">
 </a>
-<a href="https://github.com/Kwonyeonho/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeonho&layout=compact" alt="Top Langs" width="415" height="220">
-</a>
-
-### BOJ👨‍💻
-
- <div align='left'>
 <a href="https://solved.ac/gyh040409/">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gyh040409" alt="Solved.ac Profile">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyh040409" alt="Solved.ac Profile" width="415" height="200">
 </a>
    
 ### ____________________________________________________________________________________________________________________
