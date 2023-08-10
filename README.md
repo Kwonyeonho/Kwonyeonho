@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kwonyeonho&show_icons=true&theme=dark" alt="Anurag's GitHub stats" width="490" height="200">
 </a>
 <a href="https://solved.ac/gyh040409/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyh040409" alt="Solved.ac Profile" width="350" height="180">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyh040409" alt="Solved.ac Profile" width="350" height="200">
 </a>
    
 ### ____________________________________________________________________________________________________________________
